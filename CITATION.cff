@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you reference this work in academic or professional contexts, please cite as below."
+authors:
+  - family-names: "Mitchell"
+    given-names: "John"
+title: "Multi-Domain Indexing Pipeline: 244 Datasets, 155.7M Vectors"
+version: 1.0.0
+date-released: 2026-02-10
+url: "https://github.com/whmatrix/multi-domain-indexing-registry"
+type: software
+keywords:
+  - semantic-indexing
+  - faiss
+  - rag
+  - vector-database
+  - pipeline-validation
+license: MIT
